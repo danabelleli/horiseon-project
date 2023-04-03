@@ -14,7 +14,7 @@ N/A
 By going on the landing page you can learn how Horison Marketing Agency works, their reputation and their strategies. 
 
 [Horison Marketing Agency URL](https://danabelleli.github.io/horiseon-project/)
-[a digital marketing meeting](/Develop/assets/images/digital-marketing-meeting.jpg)
+[a digital marketing meeting](/assets/images/digital-marketing-meeting.jpg)
 
 ## Credits
 
