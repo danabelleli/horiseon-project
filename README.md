@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-By going on the landing page you can learn how Horison Marketing Agency works, their reputation and theit strategies. 
+By going on the landing page you can learn how Horison Marketing Agency works, their reputation and their strategies. 
 
 [Horison Marketing Agency URL]()
 [a digital marketing meeting](/Develop/assets/images/digital-marketing-meeting.jpg)
